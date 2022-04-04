@@ -1,2 +1,2 @@
-i!/bin/bash
-find -R -empty
+#!/bin/bash
+find ./* -empty
